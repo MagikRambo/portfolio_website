@@ -8,9 +8,7 @@ const Technologies = () =>  (
   <SectionDivider/>
   <br/>
   <SectionTitle>Technologies</SectionTitle>
-  <SectionText>
-    I've worked with a lot of technologies ranging from back-end to front-end.
-  </SectionText>
+
   <List>
     <ListItem>
       <DiReact size="3rem"/>
@@ -18,7 +16,7 @@ const Technologies = () =>  (
         <ListTitle>Front-End</ListTitle>
         <ListParagraph>
           Experience with <br/>
-          React.js
+          Postman, Next.js, React, and TypesScript
         </ListParagraph>
       </ListContainer>
     </ListItem>
@@ -28,7 +26,7 @@ const Technologies = () =>  (
         <ListTitle>Back-End</ListTitle>
         <ListParagraph>
           Experience with <br/>
-          C#, C++, Java, and Databases
+          Docker, Git, Postgres, Python, Golang, C, C#, C++, Java, and Powershell
         </ListParagraph>
       </ListContainer>
     </ListItem>

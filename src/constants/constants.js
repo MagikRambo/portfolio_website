@@ -6,7 +6,7 @@ export const projects = [
     image: "/images/1.png",
     tags: ["HTML5", "CSS3", "JavaScript", "node"],
     source: "https://devpost.com/software/ustudyapp",
-    visit: "https://github.com/Mikemarambio/LateEntryHack",
+    visit: "https://github.com/MagikRambo/LateEntryHack",
     id: 0,
   },
   {
@@ -14,9 +14,9 @@ export const projects = [
     description:
       "Using REACT, JavaScript, This is a website to showcase my projects and a little bit about myself. Also my first time building a website using a framework.",
     image: "/images/2.png",
-    tags: ["React", "JavaScript", "Vercel"],
-    source: "https://github.com/Mikemarambio/portfolio_website",
-    visit: "https://github.com/Mikemarambio/portfolio_website",
+    tags: ["Next.js", "JavaScript", "Vercel"],
+    source: "https://github.com/MagikRambo/portfolio_website",
+    visit: "https://github.com/MagikRambo/portfolio_website",
     id: 1,
   },
   {
@@ -25,8 +25,8 @@ export const projects = [
       "This is a similar and more relaxed version of Excel. This project utilized multi-client threading in C++ for the backend. Along with a GUI made in C#.",
     image: "/images/3.png",
     tags: ["C++", "C#", "Docker"],
-    source: "https://github.com/Mikemarambio/R4M",
-    visit: "https://github.com/Mikemarambio/R4M",
+    source: "https://github.com/MagikRambo/R4M",
+    visit: "https://github.com/MagikRambo/R4M",
     id: 2,
   },
   {
@@ -53,6 +53,6 @@ export const TimeLineData = [
   },
   {
     year: 2022,
-    text: "Built more projects and returning to Microsoft for the second year",
+    text: "Built more projects, returned to Microsoft for the second year, became a research assistant in VR/XR, and competed in HackMIT 2022",
   },
 ];

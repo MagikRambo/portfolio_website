@@ -5,9 +5,9 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
   { number: 2, text: 'Internships'},
-  { number: 1, text: 'Hackathons', },
+  { number: 2, text: 'Hackathons', },
   { number: 15, text: 'People I\'ve helped get jobs/internships', },
-  { number: 40, text: 'Students in my Student Organization', }
+  { number: 100, text: 'Students in my Student Organization', }
 ];
 
 const Acomplishments = () => (
