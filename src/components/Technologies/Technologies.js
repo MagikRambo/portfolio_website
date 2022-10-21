@@ -26,7 +26,7 @@ const Technologies = () =>  (
         <ListTitle>Back-End</ListTitle>
         <ListParagraph>
           Experience with <br/>
-          Docker, Git, Postgres, Python, Golang, C, C#, C++, Java, and Powershell
+          Docker, Git, Postgres, Python, Golang, C, C#, C++, Java, Bash, and Powershell
         </ListParagraph>
       </ListContainer>
     </ListItem>

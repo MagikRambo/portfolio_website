@@ -3,7 +3,7 @@ export const projects = [
     title: "U-Study App",
     description:
       "Using HTML, CSS, JavaScript & Node. You'll be able to block out any distractions to help study during COVID times. A Chrome extension built to help blacklist websites that are non-educational, with the ability to whitelist pages.",
-    image: "/images/1.png",
+    //image: "/images/1.png",
     tags: ["HTML5", "CSS3", "JavaScript", "node"],
     source: "https://devpost.com/software/ustudyapp",
     visit: "https://github.com/MagikRambo/LateEntryHack",
@@ -13,7 +13,7 @@ export const projects = [
     title: "Personal Portfolio",
     description:
       "Using REACT, JavaScript, This is a website to showcase my projects and a little bit about myself. Also my first time building a website using a framework.",
-    image: "/images/2.png",
+    //image: "/images/2.png",
     tags: ["Next.js", "JavaScript", "Vercel"],
     source: "https://github.com/MagikRambo/portfolio_website",
     visit: "https://github.com/MagikRambo/portfolio_website",
@@ -23,7 +23,7 @@ export const projects = [
     title: "Multi-user TCP-IP/IP Spreadsheet",
     description:
       "This is a similar and more relaxed version of Excel. This project utilized multi-client threading in C++ for the backend. Along with a GUI made in C#.",
-    image: "/images/3.png",
+    //image: "/images/3.png",
     tags: ["C++", "C#", "Docker"],
     source: "https://github.com/MagikRambo/R4M",
     visit: "https://github.com/MagikRambo/R4M",
@@ -33,7 +33,7 @@ export const projects = [
     title: "TankWars",
     description:
       "This is a game created in C# utilizing TCP/IP connection to a server with multiple people to play against eachother. Utilizing ray tracing.",
-    image: "/images/four.png",
+    //image: "/images/four.png",
     tags: ["C#"],
     source: "https://github.com/uofu-cs3500-fall20/game-team_power_move",
     visit: "https://github.com/uofu-cs3500-fall20/game-team_power_move",
